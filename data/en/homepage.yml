@@ -4,7 +4,7 @@ hero:
 
   # animated text loop
   occupations:
-    - "Currently Student"
+    - "Student"
     - "Aspiring Statistician"
     - "Aspiring Software Developer"
 
@@ -41,33 +41,6 @@ about:
    # label : "DOWNLOAD MY CV"
   #  link : "#" # you can put your cv in static folder and give the path here.
   
-  
-    ###########################3 Education ##############################
-#education:
-#  enable : true
-#  title : "EDUCATION"
-#  experience_list:
-   # experience item loop
-#     - name : "Secondary Education"
-#      company : "Multipurpose Govt. Girls' School, Alipore"
-#      duration : "2005-2015"
-#      content : "86.57% in class 10 Board Exam"
-#      
-#    #experience item loop
-#    - name : "Higher Secondary Eduction"
-#     institution : "Patha Bhavan"
-#      duration : "2015-2017"
-#      content : "81.2% in class 12 Board Examination"
-#      
-#    # experience item loop
-#    - name : "B.Sc"
-#      institution : " Basanti Devi College , Calcutta University"
-#      duration : "2017-present"
-#      #content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
-
-
-
-
 ###########################3 Experience ##############################
 experience:
   enable : true
@@ -113,29 +86,59 @@ skill:
     - name : "FORTRAN"
       parcentage : "75%"
       
+      
+        
+    ###########################3 Education ##############################
+#education:
+#  enable : true
+#  title : "EDUCATION"
+#  experience_list:
+   # experience item loop#
+#     - name : "Secondary Education"
+#      company : "Multipurpose Govt. Girls' School, Alipore"
+#      duration : "2005-2015"
+#      content : "86.57% in class 10 Board Exam"
+#      
+#    #experience item loop
+#    - name : "Higher Secondary Eduction"
+#     institution : "Patha Bhavan"
+#      duration : "2015-2017"
+#      content : "81.2% in class 12 Board Examination"
+#      
+#    # experience item loop
+#    - name : "B.Sc"
+#      institution : " Basanti Devi College , Calcutta University"
+#      duration : "2017-present"
+#      #content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+
+
+
+
+
+      
 
 
 
 ################################### Service ##############################3
-#service:
-#  enable : true
- # title : "SERVICES"
-  #service_list:
-   # # service item loop
-    #- name : "Web Development"
+service:
+  enable : true
+  title : "SERVICES"
+  service_list:
+    # service item loop
+#    - name : "Web Development"
 #      image : "images/icons/web-development.png"
  #     
 #    # service item loop
 #    - name : "Graphic Design"
 #      image : "images/icons/graphic-design.png"
+      
+    # service item loop
+    - name : "Database Management"
+      image : "images/icons/dbms.png"
 #      
-#    # service item loop
-#    - name : "Database Management"
-#      image : "images/icons/dbms.png"
-#      
-#    # service item loop
-#    - name : "Software Development"
-#      image : "images/icons/software-development.png"
+    # service item loop
+    - name : "Software Development"
+      image : "images/icons/software-development.png"
 #      
 #    # service item loop
 #    - name : "Digital Marketing"
